@@ -1,0 +1,35 @@
+cd "C:\Users\nh2u20\OneDrive - University of Southampton\Uni\4th Year\Maritime Robotics\ASV Group Assignment\uos_sess6072_build"
+
+python .\src\test2_maintain_heading.py
+python .\src\t2_speed_range.py
+python .\src\test3_heading_change.py
+python .\src\test4_2m.py
+python .\src\test4_5_single_WP_following.py
+python .\src\test_6_ekf.py
+
+
+
+python .\src\MM_plotter.py
+python .\src\PID_plotter.py
+
+
+----------------------------------------------
+
+python .\src\laptop.py
+python .\src\test1_linear_speed.py
+python .\src\test2_maintain_heading.py
+python .\src\test3_heading_change.py
+python .\src\test3_heading_setpoint.py
+python .\src\test4_single_WP_following.py
+
+python .\src\test4_5_single_WP_following.py
+
+python .\src\test5_LOS_WP_following.py
+
+python .\src\test_6_ekf.py
+
+
+python .\src\MM_plotter.py
+python .\src\PID_plotter.py
+
+python .\src\shutdown_robot.py
