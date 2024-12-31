@@ -1,5 +1,5 @@
 # Guidance, Navigation and Control of an Autonomous Vessel
-This project focused on the development of an advanced navigation system for an uncrewed vehicle, integrating control algorithms, path planning techniques, and localization methods to ensure precise and autonomous operation.
+This project focused on the development of an advanced navigation system, integrating control algorithms, path planning techniques, and localisation methods to ensure autonomous operation.
 
 Key accomplishments include:
 
